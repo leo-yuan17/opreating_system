@@ -20,7 +20,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://gitee.com/leo_yuan17/operating-system.git
+   git clone https://github.com/leo-yuan17/opreating_system.git
    ```
 2. **切换分支**  
   - **查看分支:** 
@@ -31,6 +31,7 @@
     ```bash
     git checkout 分支名
     ```
+  - **网页左上角也可切换分支**
 3. **获取更新**  
    ```bash 
    git pull 
